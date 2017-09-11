@@ -1,0 +1,22 @@
+{
+  "name": "star",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenres/gitstar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenres/gitstar/issues"
+  },
+  "homepage": "https://github.com/wenres/gitstar#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
